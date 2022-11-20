@@ -12,27 +12,27 @@ const defaultValues = {
   audioPlayer: new Audio(),
   tracks: [
     {
-      name: "Forest Lullaby",
+      name: "Mountain Path",
       file: Track1,
     },
     {
-      name: "Loneliness of the Winner",
+      name: "Please Calm My Mind",
       file: Track2,
     },
     {
-      name: "Sedative",
+      name: "Drop It",
       file: Track3,
     },
     {
-      name: "Whip",
+      name: "Password Infinity",
       file: Track4,
     },
     {
-      name: "Order",
+      name: "The Beat of Nature",
       file: Track5,
     },
     {
-      name: "Showreel",
+      name: "CINIM - Brainfluid",
       file: Track6,
     },
   ],
